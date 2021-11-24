@@ -5,8 +5,17 @@
   "repository": "https://github.com/schnipps0mac/schnipps0mac.github.io.git",
   "author": "schnipps0mac <e070081ik@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "dev": "yarn gulp default"
+  },
   "dependencies": {
     "parallax-js": "^3.1.0",
     "requirejs": "^2.3.6"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.16.0",
+    "@babel/preset-env": "^7.16.4",
+    "gulp": "^4.0.2",
+    "gulp-babel": "^8.0.0"
   }
 }
