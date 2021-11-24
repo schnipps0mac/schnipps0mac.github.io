@@ -1,0 +1,11 @@
+{
+  "name": "landing-page",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/schnipps0mac/schnipps0mac.github.io.git",
+  "author": "schnipps0mac <e070081ik@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "parallax-js": "^3.1.0"
+  }
+}
